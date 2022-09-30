@@ -1,11 +1,12 @@
 baseURL: "https://www.jonkatzur.com"
 paginate: 7
+title: "JK"
 theme: PaperMod
 
 params:
   homeInfoParams: 
     Title: "Hi, I'm Jon Katzur"
-    Content: "I love using data to create intuitive and empathetic software."
+    Content: "I love building and leading high performing data and machine learning teams. I've been a [founder](https://www.linkedin.com/company/proximo-data/about/), employee [30 to 300](https://www.1010data.com/), [1200 to 2500](https://slack.com/), and now [~1.5million](https://www.amazon.com/)"
   socialIcons:
     - name: twitter
       url: https://twitter.com/jkatzur
