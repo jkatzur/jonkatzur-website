@@ -2,6 +2,7 @@
 title: "Spatial Mean - or where to put a bachelor party"
 date: 2015-03-16T19:14:22-04:00
 draft: false
+categories: ["Data"]
 ---
 Recently I found myself planning a bachelor party. I was aiming to rent a house for 19 friends strewn across the northeastern United States. I wanted to pick a a central location easy for everyone to get to. So, like any normal person (at least one who works in analytics), I wanted to quantitatively determine the most fair location.
 
