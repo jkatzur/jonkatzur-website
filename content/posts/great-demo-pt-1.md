@@ -2,7 +2,7 @@
 title: "How to Give a Great Demo: Part 1 - Get the First 2 Sentences Right"
 date: 2015-08-03T00:27:22-04:00
 draft: false
-tags: ["Demos"]
+categories: ["Demos"]
 ---
 
 This post will be the first in a series on effective enterprise technology demos. I will share tips, tricks, and lessons I have learned over 5 years giving demos to everyone from analysts to C-Levels execs. Each post will contain a specific and actionable way to improve your demos immediately. Today, we will talk about how to use the first 2 sentences to capture the audience’s attention. 

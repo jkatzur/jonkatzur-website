@@ -2,7 +2,7 @@
 title: "How Data Can Deceive"
 date: 2011-02-28T23:46:22-04:00
 draft: false
-tags: ["Data"]
+categories: ["Data"]
 ---
 Think about it:
 

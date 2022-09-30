@@ -2,7 +2,7 @@
 title: "Apple shouldn’t release an ‘iPad 3’"
 date: 2011-12-27T11:54:22-04:00
 draft: false
-tags: ["Predictions"]
+categories: ["Predictions"]
 ---
 ### Update on this post in 2022...
 This is a cool post to read later. I had forgotten I wrote this and also forgotten that the iPad ever had the numeric moniker. According to this article on [iPad history](https://www.pocket-lint.com/tablets/news/apple/146888-history-of-the-apple-ipad) there was an iPad 3 and iPad 4 but then they dropped the numbers. 

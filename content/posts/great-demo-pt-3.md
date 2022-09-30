@@ -2,7 +2,7 @@
 title: "How to Give a Great Demo: Part 3 – Answering Questions"
 date: 2016-01-14T08:58:22-04:00
 draft: false
-tags: ["Demos"]
+categories: ["Demos"]
 ---
 
 If a demo is going well, your audience will pepper you with questions. This is a great sign of an engaged audience. It gives them the chance to focus on their key topics. Unfortunately, given the open-ended nature, many new demo’ers find answering questions to be particularly challenging. This blog post will give specific advice on how to handle questions. 

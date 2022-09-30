@@ -2,7 +2,7 @@
 title: "How to Give a Great Demo: Part 2 – It’s About Stories"
 date: 2016-01-04T11:17:22-04:00
 draft: false
-tags: ["Demos"]
+categories: ["Demos"]
 ---
 
 > “If I had had more time, I would have written a shorter letter"

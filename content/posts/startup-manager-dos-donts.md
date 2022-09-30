@@ -2,7 +2,7 @@
 title: "Startup Manager Dos and Don’ts"
 date: 2018-05-13T19:12:22-04:00
 draft: false
-tags: ["Leadership"]
+categories: ["Leadership"]
 ---
 
 Becoming a first-time manager at a startup is hard. Given the intense pace and growth, you are often promoted with limited training and expected to manage people who used to be peers. You are asked to continue to deliver on individual contributor responsibilities – write code, support customers, or sell, while also managing a team. After going through this transition myself, and helping coach dozens of other managers through it, I wanted to put together a curated summary of the best advice I’ve gotten. Let me know what you think:

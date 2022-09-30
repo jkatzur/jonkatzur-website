@@ -1,7 +1,19 @@
-baseURL: "https://www.jonkatzur.com" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-title: Jon Katzur
-paginate: 5
+baseURL: "https://www.jonkatzur.com"
+paginate: 7
 theme: PaperMod
+
+params:
+  homeInfoParams: 
+    Title: "Hi, I'm Jon Katzur"
+    Content: "I love using data to create intuitive and empathetic software."
+  socialIcons:
+    - name: twitter
+      url: https://twitter.com/jkatzur
+    - name: github
+      url: https://github.com/jkatzur
+    - name: linkedin
+      url: https://www.linkedin.com/in/jkatzur/
+  ShowBreadCrumbs: true
 
 deployment:
   order:
@@ -11,9 +23,21 @@ deployment:
     - .svg$
   targets:
     - URL: "s3://www.jonkatzur.com?region=us-east-1"
+    - cloudFrontDistributionID: "E3VNIHN614Y681"
   matchers:
     - pattern: ^.+\.(js|css|png|jpg|gif|svg|ttf)$
       cacheControl: "max-age=630720000, no-transform, public"
       gzip: true
     - pattern: ^.+\.(html|xml|json)$
       gzip: true
+
+menu: 
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identified: about
+      name: About
+      url: /about/
+      weight: 20

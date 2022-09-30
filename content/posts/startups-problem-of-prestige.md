@@ -2,7 +2,7 @@
 title: "Startups: The Problem of Prestige"
 date: 2011-02-03T16:38:22-04:00
 draft: false
-tags: ["Predictions"]
+categories: ["Predictions"]
 ---
 ### Update on this post in 2022...
 I wrote some posts around this time that were explicitly predicting things. This post wasn't that. It was more what we'd call a 'vibe shift' take. But I think I actually called this pretty well! 

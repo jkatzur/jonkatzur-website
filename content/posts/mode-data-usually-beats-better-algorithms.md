@@ -2,7 +2,7 @@
 title: "Datawocky: More data usually beats better algorithms"
 date: 2013-11-02T11:07:22-04:00
 draft: false
-tags: ["Data"]
+categories: ["Data"]
 ---
 
 > I teach a class on Data Mining at Stanford. Students in my class are expected to do a project that does some non-trivial data mining. Many students opted to try their hand at the Netflix Challenge: to design a movie…

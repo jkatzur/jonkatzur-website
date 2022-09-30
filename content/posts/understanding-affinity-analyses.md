@@ -2,7 +2,7 @@
 title: "Understanding Affinity Analyses: Fun with Probabilities"
 date: 2012-08-28T01:07:22-04:00
 draft: false
-tags: ["Data"]
+categories: ["Data"]
 ---
 A topic that has come up for me multiple times recently is how to best measure affinity in retail or eCommerce. In working with customers, I have seen that many different organizations measure affinity differently, and I wanted to take the time to explore the various models and why they may make sense or not. In the end, affinity comes down to probabilities. Before I dive into this, some background (if you already know about affinity analysis, skip below):
 

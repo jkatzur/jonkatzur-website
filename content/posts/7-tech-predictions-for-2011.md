@@ -2,7 +2,7 @@
 title: "7 Tech Predictions for 2011"
 date: 2011-01-04T11:47:22-04:00
 draft: false
-tags: ["Predictions"]
+categories: ["Predictions"]
 ---
 
 ### Update on this post in 2022...
