@@ -42,3 +42,5 @@ menu:
       name: About
       url: /about/
       weight: 20
+
+googleAnalytics: "G-HSCNF59DJ5"
