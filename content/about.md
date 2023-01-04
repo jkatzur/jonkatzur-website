@@ -11,7 +11,7 @@ Throughout my career I've also had the chance to build and scale teams. I've cre
 * 2011 - 2018: SVP Product <-- VP Solutions Engineering & Customer Success and more - 1010data
 * 2007 - 2011: Math, Econ and CS (minor) at University of Maryland. Full tuition scholarship. Commencement speaker
 
-Complete [resume](/resume.md)
+Complete [resume](/resume.pdf)
 
 Sometimes I present at conferences | And hang with my family
 ---- | ----
