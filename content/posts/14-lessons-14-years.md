@@ -1,10 +1,10 @@
 ---
-title: "12 Lessons in 12 Years"
-date: 2022-09-30T13:39:22-04:00
+title: "14 lessons over 14 years"
+date: 2025-02-02T13:39:22-04:00
 draft: false
 ---
 
-In honor of my professional life lasting as long as K-12 schooling, here is the most important lesson I learned in each year of work thus far. 
+Updating this post after 2.5 years at Amazon to add more more learning... Original post from September 2022. Here is the most important lesson I learned in each year of work thus far. 
 
 * 2011: Software Engineer --> Designing a Data Warehouse is a technical *and* usability challenge. Ideal to have a single very wide table at lowest level of granularity (view or physical depending on database). Everyone messes up joins. Avoid duplicates. Pick descriptive and long column names. 
 * 2012: Solutions Engineer --> Cohort analyses are extremely helpful in understanding your customers (e.g new/loss/gain/churn over time). When in high-SKU domains (e.g eCommerce) product [affinity analysis](/content/posts/understanding-affinity-analyses.md) is also extremely valuable. 
@@ -17,4 +17,6 @@ In honor of my professional life lasting as long as K-12 schooling, here is the 
 * 2019: Sr PM at Slack --> Small companies have drama, big companies have politics. Understand the coalitions and competing goals. With many Type A people getting things done requires (1) willingness to heads down make decisions and 'ask for forgiveness' or (2) building coalitions for your cause. Know which strategy to employ in which circumstance. 
 * 2020: Brands matter. A brand is the expectations and emotions people associate with something. McDonald's brand is so strong *because* it is consistent. Work to clearly communicate consistent expectations of your project/team to stakeholders (and follow through!)
 * 2021: Proximo --> Stated vs Revealed preferences are very different. Social desirability bias is real. Potential users unintentionally lie during user interviews to (1) be nice to you and your ideas, and (2) showcase the best aspirations they have for themselves. Be careful to suss out true challenges and avoid solutioning too quickly. 
-* 2022: Proximo --> People were much more supportive of me shutting down Proximo than I expected. Customers, employees, investors all understood, respected the decision, and moved on to great things. Take chances - life is too short!
+* 2022: Proximo --> People respect tough decisions that are made with clarity. Customers, employees, investors all understood decision to shut down Proximo. I also strived to take care of people - getting the team great jobs, returning remaining capital to investors, and helping customers find alternative solutions.
+* 2023: Amazon Sr Software Engineer --> After 10 years in management joined Amazon as a Sr IC writing code again. Reminder that you can just do stuff, even for big companies. Keep finger to pulse on technology, took external idea from papers/blogs, built working prototype, and proposed new personalization system that ultimately improved CTR for homepage recommendations.
+* 2024: Amazon Software Development Manager --> Back into management, this time leading AI Shopping Guides from prototype to [public marketing launch](https://www.theverge.com/2024/10/9/24266204/amazon-ai-shopping-guides-catalog-feature-availability). Learned how to build high quality accurate products using LLMs, manage the scrutiny of high profile projects, build 0 to 1 teams in a big company and, mostly, move very very fast.
