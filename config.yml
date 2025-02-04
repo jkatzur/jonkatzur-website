@@ -1,5 +1,6 @@
 baseURL: "https://www.jonkatzur.com"
-paginate: 7
+pagination: 
+  pagerSize: 7
 title: "JK"
 theme: PaperMod
 
