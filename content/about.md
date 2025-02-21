@@ -5,10 +5,10 @@ In particular - I love figuring out how to empower people to better work with ma
 
 Throughout my career I've also had the chance to build and scale teams. I've created Solutions Engineering, Product, and Customer Success organizations, and built high performing Software Engineering teams. 
 
-* Current: Sr SWE/Tech Lead - Amazon, Semantic Recommendations
+* Current: Software Development Manager <-- Sr SDE - Amazon, Personalization
 * 2020 - 2022: Founder/CEO - Proximo Data
-* 2018 - 2020: Sr Product Manager - Slack, Search Learning and Intelligence
-* 2011 - 2018: SVP Product <-- VP Solutions Engineering & Customer Success and more - 1010data
+* 2018 - 2020: Product - Slack, Search Learning and Intelligence
+* 2011 - 2018: SVP Product <-- VP Solutions Engineering <-- VP Customer Success and more - 1010data
 * 2007 - 2011: Math, Econ and CS (minor) at University of Maryland. Full tuition scholarship. Commencement speaker
 
 Complete [resume](/resume.pdf)
