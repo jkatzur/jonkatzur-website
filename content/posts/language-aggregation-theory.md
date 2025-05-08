@@ -2,6 +2,7 @@
 title: "Are Typescript and Python the last languages?"
 date: 2025-02-21T11:48:24-04:00
 draft: false
+categories: ["Engineering", "Tech Strategy"]
 ---
 
 I host this blog on AWS with S3 and cloudfront. It's built using [Hugo](https://gohugo.io/) a fun open-source static site generator. I picked this setup originally after reading reddit threads recommending various static site generators, like this [one](https://www.reddit.com/r/webdev/comments/1c8z739/what_is_your_favorite_static_site_generator/?rdt=63331). It was an excuse to learn some new tech, but I also wanted to pick something that was simple to learn and easy to deploy. 

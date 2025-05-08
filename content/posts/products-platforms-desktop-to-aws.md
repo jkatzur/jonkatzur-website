@@ -2,6 +2,7 @@
 title: "Products & Platforms pt 2 - from Desktop Windows to AWS"
 date: 2018-08-21T22:45:22-04:00
 draft: false
+categories: ["Tech Strategy"]
 ---
 
 **Rise of Windows & Enterprise Licensed Products**

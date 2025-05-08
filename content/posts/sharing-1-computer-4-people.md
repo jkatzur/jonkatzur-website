@@ -2,6 +2,7 @@
 title: "Sharing 1 Computer for 4 People - Ideal?"
 date: 2014-08-14T16:53:22-04:00
 draft: false
+categories: ["Engineering"]
 ---
 
 Recently, at a family gathering I made an off-hand comment to my parents that on some flights during the week it seems like 50%+ people are on Wifi doing work. I expressed how important it was to me in particular, given that I work at a cloud-based analytics company for me, to have access to the internet when preparing to meet with customers. 

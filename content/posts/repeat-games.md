@@ -2,7 +2,7 @@
 title: "Repeat Games"
 date: 2025-04-25T13:18:39-04:00
 draft: false
-categories: ["Career"]
+categories: ["Career","Leadership"]
 ---
 
 People are familiar with the prisoner's dilemma in game theory. This is a setup where two accomplices are caught at the same time. Police separate them and give each an offer: to defect on their accomplice - meaning blame them, or to stay quiet. 

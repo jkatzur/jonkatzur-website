@@ -2,6 +2,7 @@
 title: "So, I vibe coded"
 date: 2025-03-24T11:48:24-04:00
 draft: false
+categories: ["Engineering"]
 ---
 
 Continuing my exploration of llm assistance in coding, I decided to try to fully build an app end to end only via vibe-coding in natural language, no actual code. 

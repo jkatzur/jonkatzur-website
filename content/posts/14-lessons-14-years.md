@@ -2,6 +2,7 @@
 title: "14 lessons over 14 years"
 date: 2025-02-02T13:39:22-04:00
 draft: false
+categories: ["Career"]
 ---
 
 Updating this post after 2.5 years at Amazon to add more more learning... Original post from September 2022. Here is the most important lesson I learned in each year of work thus far. 

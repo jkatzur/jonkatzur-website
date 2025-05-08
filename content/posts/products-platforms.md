@@ -2,6 +2,7 @@
 title: "Products & Platforms"
 date: 2018-08-16T08:54:22-04:00
 draft: false
+categories: ["Tech Strategy"]
 ---
 
 ![Platform license chart](/images/platform_license_chart.png)

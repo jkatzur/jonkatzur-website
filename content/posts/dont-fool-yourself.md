@@ -2,6 +2,7 @@
 title: "Don’t Fool Yourself"
 date: 2011-01-10T15:06:22-04:00
 draft: false
+categories: ["Career"]
 ---
 
 ```“The first principal is that you must not fool yourself, and you are the easiest person to fool.”``` Richard Feynman

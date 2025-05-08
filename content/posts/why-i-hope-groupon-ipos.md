@@ -2,6 +2,7 @@
 title: "Why I Hope Groupon IPOs"
 date: 2010-12-28T19:27:22-04:00
 draft: false
+categories: ["Tech Strategy", "Predictions"]
 ---
 
 In early 1999, two students raised $100,000 to turn a research idea into a company. Young and risk-averse, they approached the market leader asking to be bought for $1 Million. They were negotiated down to $750,000 before the market leader finally decided not to make the purchase. The small startup asking to be acquired? Google, which IPO’d in 2004 and currently has a market cap of $192 Billion. The market leader that turned down the acquisition? Excite, which would merge with @Home Network before filing for bankruptcy in 2001.[^1]

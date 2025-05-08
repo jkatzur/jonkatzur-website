@@ -2,6 +2,7 @@
 title: "Market for Lemons and Tech Recruiting"
 date: 2025-04-01T09:00:00-04:00
 draft: false
+categories: ["Leadership"]
 ---
 Economics has a concept of the [market for lemons](https://en.wikipedia.org/wiki/The_Market_for_Lemons) about information asymmetry. In a market like used cars the seller has more information about the quality than the buyers. In these markets, the price converges to the average price, essentially making all lemons (bad cars) too expensive, but all normal cars too cheap (at least for the seller) as the market prices on expected value. The canonical approach to increase efficiency is to add various 3rd party inspections for quality or to have the seller provide some warranties or guarantees on quality. 
 

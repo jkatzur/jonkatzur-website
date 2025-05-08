@@ -2,6 +2,7 @@
 title: "Be Lazy"
 date: 2011-04-04T13:39:22-04:00
 draft: false
+categories: ["Engineering"]
 ---
 
 My dad had a great quote for me growing up. It was “the most successful people are lazy.” He meant a particular kind of lazy- the kind that finds ways to optimize their life. For example, my dad is too lazy to solve the same types of mathematic problems again and again, so he codes up a solution to automate it. 
