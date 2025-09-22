@@ -3,6 +3,7 @@ pagination:
   pagerSize: 7
 title: "JK"
 theme: PaperMod
+environment: "production"
 
 params:
   homeInfoParams: 
@@ -39,7 +40,7 @@ menu:
       name: Categories
       url: /categories/
       weight: 10
-    - identified: about
+    - identifier: about
       name: About
       url: /about/
       weight: 20
