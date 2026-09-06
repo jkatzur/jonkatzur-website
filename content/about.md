@@ -1,18 +1,18 @@
+---
+title: "About"
+ShowBreadCrumbs: false
+---
+
 #### Jon Katzur
-I believe in the power of data.
+We're all just holding on to the bucking bronco of gradient descent. Trying to focus on how much fun it is to build faster than ever. 
 
-In particular - I love figuring out how to empower people to better work with machines to do what they want. I enjoy the combination of product, math, software engineering, and design skills required. 
+I love combining domains - like systems/math/eng/product to solve interesting problems. 
 
-Throughout my career I've also had the chance to build and scale teams. I've created Solutions Engineering, Product, and Customer Success organizations, and built high performing Software Engineering teams. 
+Throughout my career I've had the chance to build and scale teams across software + product. And to start functions including solutions engineering and customer success.
 
-* Current: Software Development Manager <-- Sr SDE - Amazon, Personalization
+* Current: SVP Engineering [R1](https://www.r1rcm.com/)
+* 2022 - 2025: EM <-- Sr SDE - Amazon, Personalization
 * 2020 - 2022: Founder/CEO - Proximo Data
 * 2018 - 2020: Product - Slack, Search Learning and Intelligence
 * 2011 - 2018: SVP Product <-- VP Solutions Engineering <-- VP Customer Success and more - 1010data
 * 2007 - 2011: Math, Econ and CS (minor) at University of Maryland. Full tuition scholarship. Commencement speaker
-
-Complete [resume](/resume.pdf)
-
-Sometimes I present at conferences | And hang with my family
----- | ----
-![Sometimes I present at conferences](/images/presenting-1010-user-conference.png) | ![And hang out with my family](/images/family-pic.jpeg)

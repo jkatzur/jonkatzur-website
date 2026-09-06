@@ -8,7 +8,14 @@ environment: "production"
 params:
   homeInfoParams: 
     Title: "Hi, I'm Jon Katzur"
-    Content: "I love building and leading high performing data and machine learning teams. I've been a [founder](https://www.linkedin.com/company/proximo-data/about/), employee [30 to 300](https://www.1010data.com/), [1200 to 2500](https://slack.com/), and now [~1.5million](https://www.amazon.com/)"
+    Content: |
+              I love building and leading high performing data and machine learning teams.
+
+              Now SVP Engineering at [R1](https://www.r1rcm.com/). Prior VC-backed data [founder](https://www.linkedin.com/company/proximo-data/about/),
+              built teams while scaling from Series A to exit at [1010data](https://www.1010data.com/), search and AI product at pre-IPO Slack,
+              eng for personalization at [Amazon](https://www.aboutamazon.com/news/retail/amazon-ai-shopping-guides-product-research-recommendations).
+              
+              And co-founder of Biv Capital. We buy and incubate AI-native companies driving outcomes for enterprises. Portfolio includes [ChatRank](https://chatrank.ai/) and [JustReachOut](https://justreachout.io/)
   socialIcons:
     - name: twitter
       url: https://twitter.com/jkatzur
@@ -36,10 +43,18 @@ deployment:
 
 menu: 
   main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 5
     - identifier: categories
       name: Categories
       url: /categories/
       weight: 10
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 15
     - identifier: about
       name: About
       url: /about/

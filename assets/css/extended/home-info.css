@@ -1,0 +1,13 @@
+/* PaperMod uses -webkit-box on .entry-content for line clamping; that
+   collapses homepage paragraphs into one visual block. */
+.home-info .entry-content {
+    display: block;
+}
+
+.home-info .entry-content p {
+    margin: 0 0 0.9em;
+}
+
+.home-info .entry-content p:last-child {
+    margin-bottom: 0;
+}
