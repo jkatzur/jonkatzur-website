@@ -1,0 +1,12 @@
+{{- $currentTerm := "" -}}
+{{- if eq .Type "categories" -}}
+{{- $currentTerm = .Data.Term -}}
+{{- end -}}
+<nav class="category-filters" aria-label="Filter by category">
+    <a href="{{ "posts/" | absLangURL }}"
+        class="category-filter{{ if eq $currentTerm "" }} is-active{{ end }}">All</a>
+    {{- range site.Taxonomies.categories.Alphabetical }}
+    <a href="{{ .Page.Permalink }}"
+        class="category-filter{{ if eq $currentTerm .Page.Data.Term }} is-active{{ end }}">{{ .Page.LinkTitle }}</a>
+    {{- end }}
+</nav>

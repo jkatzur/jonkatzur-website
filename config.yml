@@ -47,9 +47,9 @@ menu:
       name: Home
       url: /
       weight: 5
-    - identifier: categories
-      name: Categories
-      url: /categories/
+    - identifier: writing
+      name: Writing
+      url: /posts/
       weight: 10
     - identifier: projects
       name: Projects
